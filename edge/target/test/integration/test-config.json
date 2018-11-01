@@ -1,0 +1,8 @@
+{
+	"helloWorld": {
+		"domain": "http://muthyalug-eval-test.apigee.net:80",
+		"basepath": "/helloWorld/v1",
+		"product":"demo-helloWorld-v1Product-test",
+		"app":"demo-helloWorld-v1-muthyalug-eval-test"
+	}
+}
